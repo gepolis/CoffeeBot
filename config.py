@@ -1,0 +1,5 @@
+API_TOKEN="6176059712:AAFW6rsjslXuFib1TEEL0xfhMCSRPyqhGys"
+
+rub="₽"
+
+super_admin=2015460473
